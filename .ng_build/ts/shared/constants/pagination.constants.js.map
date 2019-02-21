@@ -1,1 +1,0 @@
-{"version":3,"sources":["pagination.constants.ts"],"names":[],"mappings":"AAAA,MAAC,CAAM,MAAA,gBAAA,CAAM,cAAA,GAAiB,EAAA,CAAG","file":"pagination.constants.js","sourceRoot":"","sourcesContent":["export const /** @type {?} */ ITEMS_PER_PAGE = 20;\n"]}

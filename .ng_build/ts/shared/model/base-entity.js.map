@@ -1,1 +1,0 @@
-{"version":3,"sources":["base-entity.ts"],"names":[],"mappings":"AAGC,CAAC","file":"base-entity.js","sourceRoot":"","sourcesContent":["export interface BaseEntity {\n    // using type any to avoid methods complaining of invalid type\n    id?: any;\n};\n"]}
